@@ -1,0 +1,1 @@
+sudo docker build -t ubuntu-ros2-foxy:20.04 .
