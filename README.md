@@ -2,10 +2,7 @@ TO BE UPDATED SOON!
 
 This repository contains dockerfiles to build dockercontainers for noetic, melodic and foxy
 
-The containers are modified to suit the needs of conducting Active SLAM (ASLAM) on the leo-rover on 3D gazebo map.
-
-We use the velodyne3D lidar for the same.
-
+The containers are modified to suit the needs of conducting Active SLAM (ASLAM) on the leo-rover on a 3D gazebo map using the velodyne3D lidar.
 
 TO BUILD THE IMAGES:
 ```./noetic-ros-build.sh```
