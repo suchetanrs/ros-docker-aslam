@@ -8,3 +8,10 @@ apt-get install tmux -y
 apt-get install mlocate -y
 apt-get install vim -y
 apt-get install ranger -y
+apt-get install zsh -y
+apt-get install python3-pip -y
+apt-get install firefox -y
+
+
+pip install numpy
+pip install matplotlib

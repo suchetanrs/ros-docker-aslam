@@ -22,4 +22,10 @@ echo ""
 
 cd ../..
 
+cd ./ros-noetic/Traversability-map
+sudo docker build -t ubuntu-ros-noetic:20.04 .
+echo "Elevation map added"
+
+cd ../..
+
 echo "RUN THE IMAGE ubuntu-ros-noetic:20.04 to TRY!"
